@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Image_dataset</folder>
+	<filename>53a4b0c2-859d-11eb-a768-f8ac659fee5c.jpg</filename>
+	<path>C:\Users\kctey\OneDrive\Desktop\VSC\ComputerVision\RealTimeMaskDetection\Tensorflow\workspace\images\Image_dataset\53a4b0c2-859d-11eb-a768-f8ac659fee5c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>specs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>237</ymin>
+			<xmax>473</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
